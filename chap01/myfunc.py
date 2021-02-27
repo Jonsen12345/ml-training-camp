@@ -2,7 +2,7 @@ import numpy as np
 
 
 def myfunc(a):
-    useless_number = np.random.randn(1)
+    useless_number = 2
     b = a
     c = call_func(b)
     print(1 / c)
